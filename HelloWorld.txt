@@ -9,3 +9,5 @@ Modify from git test1, modify 2
 solve confict
 
 Test conflict again
+
+make conflict again
